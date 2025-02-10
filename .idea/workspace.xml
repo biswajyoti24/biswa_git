@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1718d1ab-a4c2-4270-a70a-bdd874a1d9bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/AllPermutationStringOfAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ArrayCharPrograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ArrayNumberPrograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/FrequencyCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice0806BS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Practice2505.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/SwapStringWithoutThirdVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/DiamondProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/DiamondProgramming1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/DiamondProgramming2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/StringInterPolation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/TriangleProgramming1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/armStrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/arrayprogramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/averageAgeofalistofPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/collectionpractice/mapInterfaceProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/collectionpractice/mapProgramming1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/comparablecomparator/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/comparablecomparator/EmployeeAgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/comparablecomparator/EmployeeNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/comparablecomparator/TestComparableComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/fibonicySeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/integerscontainsaprimenumberusingJavastreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/learncollectionlistinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/sortingProgramme/Boble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/streamApiExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/stringReverseProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/triangleProgramming.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2gB7wJIdpHm5XVAsWUiqi1Y4Vbt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/biswa_git/javaProject/src/practice&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\biswa_git\javaProject\src\practice" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="programming.comparablecomparator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DiamondProgramming2">
+    <configuration name="DiamondProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.DiamondProgramming" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiamondProgramming1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.DiamondProgramming1" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiamondProgramming2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.DiamondProgramming2" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleProgramming1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.TriangleProgramming1" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="triangleProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.triangleProgramming" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DiamondProgramming2" />
+        <item itemvalue="Application.TriangleProgramming1" />
+        <item itemvalue="Application.DiamondProgramming1" />
+        <item itemvalue="Application.DiamondProgramming" />
+        <item itemvalue="Application.triangleProgramming" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1718d1ab-a4c2-4270-a70a-bdd874a1d9bf" name="Changes" comment="" />
+      <created>1715159356335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715159356335</updated>
+      <workItem from="1715159358347" duration="1301000" />
+      <workItem from="1715325809456" duration="5382000" />
+      <workItem from="1715403506184" duration="4539000" />
+      <workItem from="1715604907916" duration="1218000" />
+      <workItem from="1715936473403" duration="31000" />
+      <workItem from="1715936541854" duration="10360000" />
+      <workItem from="1716025654089" duration="3767000" />
+      <workItem from="1716199114303" duration="3555000" />
+      <workItem from="1716303277193" duration="960000" />
+      <workItem from="1716616552026" duration="7623000" />
+      <workItem from="1716822855997" duration="665000" />
+      <workItem from="1716880795172" duration="1263000" />
+      <workItem from="1717135452144" duration="2495000" />
+      <workItem from="1717831175241" duration="2098000" />
+      <workItem from="1717841314145" duration="5249000" />
+      <workItem from="1738095875533" duration="128000" />
+      <workItem from="1738122028545" duration="987000" />
+      <workItem from="1738135731222" duration="53000" />
+      <workItem from="1738135982354" duration="729000" />
+      <workItem from="1738142602960" duration="1889000" />
+      <workItem from="1738224532869" duration="2022000" />
+      <workItem from="1738607185524" duration="935000" />
+      <workItem from="1738637464909" duration="5175000" />
+      <workItem from="1738761076493" duration="2835000" />
+      <workItem from="1738863460681" duration="1514000" />
+      <workItem from="1738937788955" duration="5496000" />
+      <workItem from="1738986864436" duration="6144000" />
+      <workItem from="1739001708751" duration="4639000" />
+      <workItem from="1739189409240" duration="12279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
+          <line>17</line>
+          <properties class="programming.armStrongNumber" method="checkArmstrongNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
