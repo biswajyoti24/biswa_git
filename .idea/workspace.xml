@@ -2,51 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1718d1ab-a4c2-4270-a70a-bdd874a1d9bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/AllPermutationStringOfAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ArrayCharPrograms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/ArrayNumberPrograms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/FrequencyCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Practice0806BS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Practice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Practice2505.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/SwapStringWithoutThirdVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/DiamondProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/DiamondProgramming1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/DiamondProgramming2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/StringInterPolation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/TriangleProgramming1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/armStrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/arrayprogramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/averageAgeofalistofPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/collectionpractice/mapInterfaceProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/collectionpractice/mapProgramming1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/comparablecomparator/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/comparablecomparator/EmployeeAgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/comparablecomparator/EmployeeNameComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/comparablecomparator/TestComparableComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/fibonicySeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/integerscontainsaprimenumberusingJavastreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/learncollectionlistinterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/sortingProgramme/Boble_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/streamApiExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/stringReverseProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/triangleProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/ArmstrongNumber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/JavaStringProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/JavaStringProgramming2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/medianTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/subArrayprogramme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/subarrayprogramming1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programming/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programming/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programming/arrayprogramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programming/arrayprogramming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,9 +64,9 @@
       <recent name="programming.comparablecomparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiamondProgramming2">
-    <configuration name="DiamondProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.DiamondProgramming" />
+  <component name="RunManager" selected="Application.Test5">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.Test1" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiamondProgramming1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.DiamondProgramming1" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.Test2" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DiamondProgramming2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.DiamondProgramming2" />
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.Test3" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleProgramming1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.TriangleProgramming1" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.Test4" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -148,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="triangleProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.triangleProgramming" />
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.Test5" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -163,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DiamondProgramming2" />
-        <item itemvalue="Application.TriangleProgramming1" />
-        <item itemvalue="Application.DiamondProgramming1" />
-        <item itemvalue="Application.DiamondProgramming" />
-        <item itemvalue="Application.triangleProgramming" />
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -207,12 +176,38 @@
       <workItem from="1738937788955" duration="5496000" />
       <workItem from="1738986864436" duration="6144000" />
       <workItem from="1739001708751" duration="4639000" />
-      <workItem from="1739189409240" duration="12279000" />
+      <workItem from="1739189409240" duration="13233000" />
+      <workItem from="1739246593234" duration="20180000" />
+      <workItem from="1739377360407" duration="2225000" />
+      <workItem from="1739427059045" duration="4759000" />
     </task>
+    <task id="LOCAL-00001" summary="java practice programme">
+      <created>1739219115174</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739219115175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java practice programme" />
+    <option name="LAST_COMMIT_MESSAGE" value="java practice programme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -281,6 +276,81 @@
           <url>file://$PROJECT_DIR$/src/programming/sortingProgramme/MergeSort.java</url>
           <line>35</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/subarrayprogramming1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/medianTwoSortedArray.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/ArmstrongNumber1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/ArmstrongNumber1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/ArmstrongNumber1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/Test4.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/Test4.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
