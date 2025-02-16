@@ -2,20 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1718d1ab-a4c2-4270-a70a-bdd874a1d9bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/programming/ArmstrongNumber1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/JavaStringProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/JavaStringProgramming2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/medianTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/subArrayprogramme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programming/subarrayprogramming1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/ChechNonrepeatingCharacterFromSring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/CheckArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Countofsubstringshavingalldistinctcharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/Test9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/TrianleStarTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programming/tEST7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programming/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programming/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programming/arrayprogramming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programming/arrayprogramming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,9 +60,9 @@
       <recent name="programming.comparablecomparator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test5">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.Test1" />
+  <component name="RunManager" selected="Application.Test11">
+    <configuration name="CheckArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.CheckArmstrongNumber" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.Test2" />
+    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.Test10" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.Test3" />
+    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.Test11" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.Test4" />
+    <configuration name="TrianleStarTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.TrianleStarTest1" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programming.Test5" />
+    <configuration name="armStrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programming.armStrongNumber" />
       <module name="javaProject" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test5" />
-        <item itemvalue="Application.Test4" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test11" />
+        <item itemvalue="Application.Test10" />
+        <item itemvalue="Application.TrianleStarTest1" />
+        <item itemvalue="Application.CheckArmstrongNumber" />
+        <item itemvalue="Application.armStrongNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +175,12 @@
       <workItem from="1739189409240" duration="13233000" />
       <workItem from="1739246593234" duration="20180000" />
       <workItem from="1739377360407" duration="2225000" />
-      <workItem from="1739427059045" duration="4759000" />
+      <workItem from="1739427059045" duration="5414000" />
+      <workItem from="1739463606661" duration="12077000" />
+      <workItem from="1739506153039" duration="9037000" />
+      <workItem from="1739546831451" duration="2048000" />
+      <workItem from="1739555769336" duration="793000" />
+      <workItem from="1739598080337" duration="4144000" />
     </task>
     <task id="LOCAL-00001" summary="java practice programme">
       <created>1739219115174</created>
@@ -188,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739219115175</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java practice programme1">
+      <created>1739448171910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739448171910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +215,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java practice programme" />
-    <option name="LAST_COMMIT_MESSAGE" value="java practice programme" />
+    <MESSAGE value="java practice programme1" />
+    <option name="LAST_COMMIT_MESSAGE" value="java practice programme1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -351,6 +360,46 @@
           <url>file://$PROJECT_DIR$/src/programming/Test4.java</url>
           <line>9</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/tEST7.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/ChechNonrepeatingCharacterFromSring.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/Countofsubstringshavingalldistinctcharacters.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/Countofsubstringshavingalldistinctcharacters.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/Countofsubstringshavingalldistinctcharacters.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/CheckArmstrongNumber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/CheckArmstrongNumber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/programming/CheckArmstrongNumber.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/programming/armStrongNumber.java</url>
